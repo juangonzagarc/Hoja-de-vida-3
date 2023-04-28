@@ -16,12 +16,19 @@ color: #555;
 header{
 	background-color: #C5F5E5;
 }
-aside{
-    background-color: #DEF9F0;
-}
 .imagen{
     border-radius:50% ;
 }
 .color{
     color: #294172;
+}
+aside{
+    background-color: #E9FAF9;
+}
+.desplazado{
+    display: inline-block;
+    margin: 50px;
+    padding: 1px;
+    text-align: center;
+    width: 300px;
 }
