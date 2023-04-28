@@ -13,3 +13,7 @@ padding: 10px 20px;
 border: 1px solid black;
 color: #555;
 }
+
+body>h1{
+    color: blue;
+}
